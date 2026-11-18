@@ -1,0 +1,24 @@
+[project]
+name = "testproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Roman Mishukov", email = "kk5086617@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "art>=6.5",
+    "asciigenator>=0.0.6",
+    "chucklepy>=0.1.1",
+    "makememe>=0.1.12",
+    "ritori>=0.1.0",
+    "scrollart>=0.2.1",
+]
+
+[project.scripts]
+testproject = "testproject:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"

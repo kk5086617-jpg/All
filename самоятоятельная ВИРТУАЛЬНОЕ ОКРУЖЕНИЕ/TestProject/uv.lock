@@ -1,0 +1,80 @@
+version = 1
+revision = 5
+requires-python = ">=3.14"
+
+[[package]]
+name = "art"
+version = "6.5"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d4/7d/7d80509bbd19fb747edef94ba487dbadd2747944774ccc0528ad0d005a36/art-6.5.tar.gz", hash = "sha256:a98d77b42c278697ec6cf4b5bdcdfd997f6b2425332da078d4e31e31377d1844", size = 672902, upload-time = "2025-04-12T17:02:20.279Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/67/29/57b06fdb3abdf52c621d3ca3caea735e2db4c8d48288ebd26af448e8e247/art-6.5-py3-none-any.whl", hash = "sha256:70706408144c45c666caab690627d5c74aea7b6c7ce8cc968408ddeef8d84afd", size = 610382, upload-time = "2025-04-12T17:02:21.97Z" },
+]
+
+[[package]]
+name = "asciigenator"
+version = "0.0.6"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/61/05/80d6fd4505f07f39edb096ee750de6f39c21fdd0924af8cca58eb73507ea/asciigenator-0.0.6.tar.gz", hash = "sha256:cfd1ec86fc3c0b5d484b30ab6af68f24b0c6be64b45921046a54872db2aa3b6d", size = 8589, upload-time = "2025-09-08T14:11:36.268Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/13/21/f628f1e942e223197ab65f6e316d26dfaf024028ea49c9a01c3b8f3ab5cc/asciigenator-0.0.6-py3-none-any.whl", hash = "sha256:ea1eb8c504234cde1cd40220a68a66a71b2765e35c9eaeee8c7f941411b95b64", size = 6943, upload-time = "2025-09-08T14:11:34.717Z" },
+]
+
+[[package]]
+name = "chucklepy"
+version = "0.1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/5c/c1/89298e613b0eb869fd4d7436a9b67af32e968bbb9706f32ee2e141401219/chucklepy-0.1.1.tar.gz", hash = "sha256:f5acd72c14e1385ddfb7f6fa75f61c4ef08c5b3be8bdd9865774f15a5c63b182", size = 19274, upload-time = "2025-03-19T00:33:06.037Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/64/47/bb5b3839a434f0de6b9a749cff6b57b435313bca2ecc46d82c46f1576f30/chucklepy-0.1.1-py3-none-any.whl", hash = "sha256:19f31fb63fe0a4067d679aaccc0cc612155bcc452c7f2886b90fdc382786ce2a", size = 19932, upload-time = "2025-03-19T00:33:04.214Z" },
+]
+
+[[package]]
+name = "makememe"
+version = "0.1.12"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f7/41/b364f730c505b9b4ef43b4a5ae3aacfdc0f5d445e7760d6de8276e1a8325/makememe-0.1.12.tar.gz", hash = "sha256:3eabb1ac52056059df076b70ca2149bb071ff64a6104b1ac853f1c34aebd38b8", size = 939680, upload-time = "2026-06-09T06:22:14.111Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/7e/10/a8ac618d7ee43e287c42620c70f4b537964d63e943491735f18784e29a9a/makememe-0.1.12-py3-none-any.whl", hash = "sha256:d1881042d5199305ea9fca6eaef1bb0143fa037937a072c1b436b17777b50b34", size = 15735, upload-time = "2026-06-09T06:22:12.439Z" },
+]
+
+[[package]]
+name = "ritori"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/42/3c/d150f13d8d4a3650eed8c50e9e6ae8cc2e20f7194576e6da5300cbec792d/ritori-0.1.0.tar.gz", hash = "sha256:a7c36f699ca07fd65e2b60f238f0db57b1ea301bd59ea026a31076d7c617d41c", size = 3399, upload-time = "2026-01-27T08:53:14.506Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/7e/4a/a32c78485b2cab578c3a14c6257277b77d808a7ac13b8657c3781f33a3e7/ritori-0.1.0-py3-none-any.whl", hash = "sha256:0a7ce312c5298889c5150205565892aea54f5183310ef19070a6b5ba08b575af", size = 3887, upload-time = "2026-01-27T08:53:12.967Z" },
+]
+
+[[package]]
+name = "scrollart"
+version = "0.2.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/bf/59/2054b408adc1e9d6d95aebada81bf3a1c60db6a5f152e3da2e9dea982d9c/scrollart-0.2.1.tar.gz", hash = "sha256:c7df47d36a1176b2290288d2eb9c7c765cb31ed1b9e46faae97252f77ebd2404", size = 25081, upload-time = "2025-09-29T02:42:44.21Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/6b/01/9d6bfe0b9d57307981f26d36009f268779fe9313d7188c2d48288915c09a/scrollart-0.2.1-py3-none-any.whl", hash = "sha256:b81656c8d4e3cf1c605eceea0939e6c1d9e2c28f8f8239ff0961182559f712d9", size = 25179, upload-time = "2025-09-29T02:42:42.793Z" },
+]
+
+[[package]]
+name = "testproject"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "art" },
+    { name = "asciigenator" },
+    { name = "chucklepy" },
+    { name = "makememe" },
+    { name = "ritori" },
+    { name = "scrollart" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "art", specifier = ">=6.5" },
+    { name = "asciigenator", specifier = ">=0.0.6" },
+    { name = "chucklepy", specifier = ">=0.1.1" },
+    { name = "makememe", specifier = ">=0.1.12" },
+    { name = "ritori", specifier = ">=0.1.0" },
+    { name = "scrollart", specifier = ">=0.2.1" },
+]
